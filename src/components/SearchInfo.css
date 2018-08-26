@@ -1,0 +1,22 @@
+.container{
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.input_username{
+ 
+}
+.userinfo_repositories{
+  display:flex;
+  flex-direction: row;
+}
+.user_info{
+  flex:1;
+  margin-left: 50px;
+  margin-top:60px;
+}
+
+.user_repos{
+  flex:2;
+  margin-right:50px;
+}
